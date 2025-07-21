@@ -17,11 +17,18 @@
 ## 📋 Table of Contents
 
 - [🎯 Overview](#-overview)
-- [📅 90-Day Roadmap](#-90-day-roadmap)
+- [📅 90-Day AI/ML Roadmap](#-90-day-roadmap)
   - [🗓️ Month 1: ML Foundation](#️-month-1-ml-foundation-theory--coding)
   - [🗓️ Month 2: Deep Learning & Projects](#️-month-2-deep-learning--projects)
   - [🗓️ Month 3: GenAI & Interview Prep](#️-month-3-genai--interview-prep)
 - [💻 DSA Practice](#-dsa-practice-throughout-90-days)
+- [🚀 SDE Roadmap](#-sde-roadmap-data-structures--algorithms-focus)
+  - [📚 Core Study Resources](#-core-study-resources)
+  - [💡 Topic-wise Learning Path](#-topic-wise-learning-path)
+  - [🛠️ Practice Platforms](#️-practice-platforms)
+  - [🗂️ Essential Problem Sheets](#️-essential-problem-sheets)
+  - [💾 SQL & Database Skills](#-sql--database-skills)
+  - [📋 SDE Progress Tracker](#-sde-progress-tracker)
 - [📊 Progress Tracker](#-progress-tracker)
 - [🎯 Final Projects Portfolio](#-final-projects-portfolio)
 - [📚 Additional Resources](#-additional-resources)
@@ -311,6 +318,501 @@ Sunday    → Review & Mock Interviews (3 problems)
 - **Month 1**: Arrays, Strings, Basic Math (Easy problems)
 - **Month 2**: Trees, Graphs, DP basics (Easy-Medium)
 - **Month 3**: Advanced DP, System Design, Mock Interviews (Medium-Hard)
+
+</details>
+
+---
+
+## 🚀 SDE Roadmap: Data Structures & Algorithms Focus
+
+<div align="center">
+
+![SDE Roadmap](https://img.shields.io/badge/SDE-Roadmap-success?style=for-the-badge&logo=code)
+![DSA Focus](https://img.shields.io/badge/Focus-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge)
+![Interview Ready](https://img.shields.io/badge/Target-Interview%20Ready-orange?style=for-the-badge)
+
+**🎯 Master Data Structures & Algorithms for Software Development Engineer Roles**
+
+*Your systematic path to cracking SDE interviews at top tech companies*
+
+</div>
+
+---
+
+## 📚 Core Study Resources
+
+### 🎓 **Essential Video Courses & Channels**
+
+<details>
+<summary><b>🔥 Must-Watch Video Resources</b></summary>
+
+| Resource | Creator | Focus Area | Duration | Priority |
+|----------|---------|------------|----------|----------|
+| **Algorithms Course** | [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw) | Complete Algorithms | 20+ hours | 🔥 **Critical** |
+| **Recursion Playlist** | [Pepcoding](https://www.youtube.com/c/Pepcoding) | Recursion & Backtracking | 15+ hours | 🔥 **Critical** |
+| **Dynamic Programming** | [Aditya Verma](https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ) | DP Mastery | 25+ hours | 🔥 **Critical** |
+| **Graph Algorithms** | [Striver (TakeUForward)](https://www.youtube.com/c/takeUforward) | Graph Theory & Algorithms | 12+ hours | 🔥 **Critical** |
+
+### 📖 **Specific Learning Tracks**
+
+#### 🧮 **Algorithms by Abdul Bari**
+```
+📺 Complete Playlist: Algorithms
+🎯 Key Topics:
+  ✅ Time & Space Complexity Analysis
+  ✅ Divide and Conquer Algorithms
+  ✅ Greedy Algorithms
+  ✅ Dynamic Programming Fundamentals
+  ✅ String Processing Algorithms
+  ✅ Network Flow Algorithms
+  
+📝 Study Plan: 2-3 videos daily (45-60 mins)
+🕒 Timeline: 2-3 weeks for complete coverage
+```
+
+#### 🔄 **Recursion by Pepcoding**
+```
+📺 Complete Recursion & Backtracking Series
+🎯 Key Topics:
+  ✅ Recursion Fundamentals & Tree
+  ✅ Recursion in Arrays & Strings
+  ✅ Recursion with ArrayLists
+  ✅ Backtracking Algorithms
+  ✅ Time & Space Complexity of Recursive Solutions
+  
+📝 Study Plan: 1-2 videos daily (30-45 mins)
+🕒 Timeline: 2 weeks for mastery
+```
+
+#### ⚡ **Dynamic Programming by Aditya Verma**
+```
+📺 Complete DP Playlist (50+ videos)
+🎯 Key Topics:
+  ✅ DP Introduction & Memoization
+  ✅ 0/1 Knapsack Pattern (8 problems)
+  ✅ Unbounded Knapsack Pattern (5 problems)
+  ✅ Fibonacci Pattern (7 problems)
+  ✅ LCS Pattern (15 problems)
+  ✅ LIS Pattern (10 problems)
+  ✅ Kadane's Algorithm Pattern (6 problems)
+  ✅ Matrix Chain Multiplication (7 problems)
+  ✅ DP on Trees (5 problems)
+  
+📝 Study Plan: 2 videos daily + practice (60-90 mins)
+🕒 Timeline: 4-5 weeks for complete mastery
+```
+
+#### 🌐 **Graphs by Striver**
+```
+📺 Graph Series (Complete Playlist)
+🎯 Key Topics:
+  ✅ Graph Representation & Traversals
+  ✅ BFS & DFS Applications
+  ✅ Shortest Path Algorithms (Dijkstra, Bellman-Ford)
+  ✅ Minimum Spanning Tree (Kruskal, Prim)
+  ✅ Topological Sort & Applications
+  ✅ Strongly Connected Components
+  ✅ Advanced Graph Algorithms
+  
+📝 Study Plan: 1-2 videos daily + implementation (45-60 mins)
+🕒 Timeline: 2-3 weeks
+```
+
+</details>
+
+---
+
+## 💡 Topic-wise Learning Path
+
+<details>
+<summary><b>🗓️ Progressive 12-Week Study Schedule</b></summary>
+
+### **Phase 1: Foundation (Weeks 1-3)**
+```
+Week 1: Arrays & Strings
+├── 📺 Abdul Bari: Array Operations & Analysis
+├── 💻 Practice: Basic array manipulations
+├── 🎯 Target: Master 2-pointer technique
+└── 📝 Problems: Easy level (15-20 problems)
+
+Week 2: Recursion Fundamentals  
+├── 📺 Pepcoding: Recursion basics & tree
+├── 💻 Practice: Print patterns, calculations
+├── 🎯 Target: Understand call stack
+└── 📝 Problems: Basic recursion (15-20 problems)
+
+Week 3: Sorting & Searching
+├── 📺 Abdul Bari: Sorting algorithms
+├── 💻 Practice: Implement from scratch
+├── 🎯 Target: Master binary search
+└── 📝 Problems: Search variations (15-20 problems)
+```
+
+### **Phase 2: Intermediate (Weeks 4-8)**
+```
+Week 4: Linked Lists
+├── 📺 Striver: Linked List operations
+├── 💻 Practice: LL manipulations
+├── 🎯 Target: Master fast-slow pointer
+└── 📝 Problems: LL operations (20 problems)
+
+Week 5-6: Trees & Binary Search Trees
+├── 📺 Abdul Bari + Striver: Tree algorithms
+├── 💻 Practice: Tree traversals, BST operations
+├── 🎯 Target: Master tree problems
+└── 📝 Problems: Tree algorithms (25-30 problems)
+
+Week 7-8: Dynamic Programming Introduction
+├── 📺 Aditya Verma: DP fundamentals
+├── 💻 Practice: Fibonacci, Knapsack patterns
+├── 🎯 Target: Identify DP patterns
+└── 📝 Problems: Basic DP (20-25 problems)
+```
+
+### **Phase 3: Advanced (Weeks 9-12)**
+```
+Week 9-10: Graph Algorithms
+├── 📺 Striver: Complete graph series
+├── 💻 Practice: BFS, DFS, shortest paths
+├── 🎯 Target: Master graph traversals
+└── 📝 Problems: Graph algorithms (25-30 problems)
+
+Week 11: Advanced Dynamic Programming
+├── 📺 Aditya Verma: Advanced DP patterns
+├── 💻 Practice: LCS, LIS, MCM patterns
+├── 🎯 Target: Master complex DP
+└── 📝 Problems: Advanced DP (20-25 problems)
+
+Week 12: System Design & Advanced Topics
+├── 📺 Mixed: Trie, Segment Tree, etc.
+├── 💻 Practice: Advanced data structures
+├── 🎯 Target: Interview readiness
+└── 📝 Problems: Mixed difficulty (20-25 problems)
+```
+
+</details>
+
+---
+
+## 🛠️ Practice Platforms
+
+<details>
+<summary><b>🌟 Recommended Platforms & Usage Strategy</b></summary>
+
+### **🎯 Primary Platform: [takeuforward.org](https://takeuforward.org)**
+```
+🏆 Why Choose TakeUForward:
+  ✅ Curated by Striver (Ex-Google, Ex-Amazon)
+  ✅ Interview-focused problem selection
+  ✅ Detailed explanations with multiple approaches
+  ✅ Topic-wise organization
+  ✅ Company-specific problem sets
+  
+📚 Key Features:
+  • SDE Sheet with 191 most important problems
+  • A to Z DSA course with 400+ problems
+  • Company-wise interview experiences
+  • Step-by-step video solutions
+  
+🎯 Usage Strategy:
+  📅 Daily: Solve 2-3 problems from current topic
+  📝 Weekly: Review and revise solved problems
+  🎥 Always: Watch Striver's explanation videos
+```
+
+### **🚀 Secondary Platforms**
+| Platform | Best For | Problems Count | Usage |
+|----------|----------|----------------|-------|
+| **LeetCode** | Mock interviews, contests | 2500+ | Daily practice (1-2 problems) |
+| **GeeksforGeeks** | Concept understanding | 1000+ | Theory + practice |
+| **CodeChef** | Competitive programming | 3000+ | Weekly contests |
+| **Codeforces** | Advanced algorithms | 5000+ | Monthly contests |
+| **InterviewBit** | Interview preparation | 300+ | Mock interviews |
+
+### **📱 Daily Practice Routine**
+```python
+# Recommended daily schedule (2-3 hours)
+morning_routine = {
+    "theory_study": "45 minutes",      # Video lectures
+    "problem_solving": "90 minutes",   # Active coding
+    "review_solutions": "30 minutes",  # Different approaches
+    "notes_update": "15 minutes"       # Maintain problem log
+}
+
+weekly_goals = {
+    "new_problems": 15-20,
+    "revision_problems": 10-15,
+    "mock_interviews": 1,
+    "concept_review": "Sunday"
+}
+```
+
+</details>
+
+---
+
+## 🗂️ Essential Problem Sheets
+
+<details>
+<summary><b>📋 Must-Complete Problem Collections</b></summary>
+
+### **🏆 Striver SDE Sheet (Priority 1)**
+```
+📊 Total Problems: 191
+🎯 Completion Target: 80-90% (150+ problems)
+⏱️ Timeline: 8-10 weeks (2-3 problems daily)
+🔗 Link: https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
+
+📈 Breakdown by Topics:
+├── Arrays: 30 problems
+├── Linked List: 12 problems  
+├── Greedy: 16 problems
+├── Recursion: 11 problems
+├── Binary Search: 19 problems
+├── Heaps: 7 problems
+├── Stack & Queue: 14 problems
+├── String: 6 problems
+├── Binary Tree: 25 problems
+├── BST: 7 problems
+├── Graphs: 13 problems
+├── Dynamic Programming: 16 problems
+├── Tries: 3 problems
+└── Advanced (Segment Tree, etc.): 12 problems
+
+🎯 Study Strategy:
+  Week 1-2: Arrays + Linked Lists (42 problems)
+  Week 3-4: Recursion + Binary Search (30 problems) 
+  Week 5-6: Trees + BST (32 problems)
+  Week 7-8: Graphs + DP (29 problems)
+  Week 9-10: Advanced topics + Revision (58 problems)
+```
+
+### **🌟 Striver A to Z DSA Sheet (Priority 2)**
+```
+📊 Total Problems: 400+
+🎯 Completion Target: 60-70% (250+ problems)
+⏱️ Timeline: 12-15 weeks (parallel with SDE sheet)
+🔗 Link: https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/
+
+📚 Comprehensive Coverage:
+├── Step 1: Learn the basics (20 problems)
+├── Step 2: Learn important sorting techniques (7 problems)
+├── Step 3: Solve problems on arrays [Easy → Medium → Hard] (40 problems)
+├── Step 4: Binary search [1D, 2D arrays, Search space] (32 problems)
+├── Step 5: Strings [Basic and medium] (15 problems)
+├── Step 6: Learn LinkedList [Single, Double, Medium, Hard] (31 problems)
+├── Step 7: Recursion [Get a strong hold] (25 problems)
+├── Step 8: Bit manipulation [Concepts & problems] (8 problems)
+├── Step 9: Stack and Queues [Learning, pre-in-post-fix, monotonic stack] (23 problems)
+├── Step 10: Sliding window & Two pointer combined problems (12 problems)
+├── Step 11: Heaps [Learning, medium, hard] (17 problems)
+├── Step 12: Greedy algorithms [Easy, medium, hard] (16 problems)
+├── Step 13: Binary trees [Traversals, medium, hard] (39 problems)
+├── Step 14: Binary search trees [Concept and problems] (16 problems)
+├── Step 15: Graphs [Bfs, dfs, shortest path, MST, all algorithms] (54 problems)
+└── Step 16: Dynamic programming [Patterns and problems] (56 problems)
+
+🎯 Usage Strategy:
+  • Use as comprehensive reference
+  • Focus on weak areas identified from SDE sheet
+  • Complete remaining problems after SDE sheet
+  • Perfect for interview preparation final phase
+```
+
+### **📈 Additional Curated Lists**
+| Sheet Name | Creator | Problems | Difficulty | Timeline |
+|------------|---------|----------|------------|----------|
+| **Blind 75** | Tech Interview Handbook | 75 | Medium-Hard | 4-6 weeks |
+| **NeetCode 150** | NeetCode | 150 | Easy-Hard | 6-8 weeks |
+| **Love Babbar DSA Sheet** | Love Babbar | 450 | Easy-Hard | 12-15 weeks |
+| **Apna College DSA** | Apna College | 100 | Easy-Medium | 4-6 weeks |
+
+</details>
+
+---
+
+## 💾 SQL & Database Skills
+
+<details>
+<summary><b>🗄️ Database Fundamentals for SDE Roles</b></summary>
+
+### **🎯 HackerRank SQL Practice Track**
+```
+🔗 Platform: https://www.hackerrank.com/domains/sql
+📊 Total Problems: 58 problems across 7 domains
+⏱️ Timeline: 2-3 weeks (3-4 problems daily)
+🎯 Target: Complete all domains with 5-star rating
+
+📈 Domain-wise Breakdown:
+├── Basic Select (20 problems)
+│   ├── Simple SELECT statements
+│   ├── WHERE conditions  
+│   ├── ORDER BY and LIMIT
+│   └── Basic functions
+│
+├── Advanced Select (4 problems)
+│   ├── CASE statements
+│   ├── IF-ELSE logic
+│   └── Complex conditions
+│
+├── Aggregation (17 problems)
+│   ├── COUNT, SUM, AVG, MIN, MAX
+│   ├── GROUP BY operations
+│   ├── HAVING clause
+│   └── Multiple aggregations
+│
+├── Basic Join (6 problems)
+│   ├── INNER JOIN
+│   ├── LEFT/RIGHT JOIN
+│   └── Multiple table joins
+│
+├── Advanced Join (3 problems)
+│   ├── Self joins
+│   ├── Complex join conditions
+│   └── Join optimizations
+│
+├── Alternative Queries (4 problems)
+│   ├── Subqueries
+│   ├── CTEs (Common Table Expressions)
+│   └── Window functions
+│
+└── Database Projects (4 problems)
+    ├── Real-world scenarios
+    ├── Complex business logic
+    └── Performance optimization
+```
+
+### **📚 Essential SQL Concepts for SDE Interviews**
+```sql
+-- 1. Basic Queries & Filtering
+SELECT column1, column2 
+FROM table_name 
+WHERE condition 
+ORDER BY column1 DESC;
+
+-- 2. Aggregations & Grouping
+SELECT department, COUNT(*), AVG(salary)
+FROM employees 
+GROUP BY department 
+HAVING COUNT(*) > 5;
+
+-- 3. Joins (Most Important)
+SELECT e.name, d.department_name
+FROM employees e
+INNER JOIN departments d ON e.dept_id = d.id;
+
+-- 4. Subqueries
+SELECT name FROM employees 
+WHERE salary > (SELECT AVG(salary) FROM employees);
+
+-- 5. Window Functions
+SELECT name, salary,
+       RANK() OVER (PARTITION BY dept_id ORDER BY salary DESC) as rank
+FROM employees;
+
+-- 6. CTEs (Common Table Expressions)
+WITH dept_avg AS (
+    SELECT dept_id, AVG(salary) as avg_salary
+    FROM employees GROUP BY dept_id
+)
+SELECT e.name, e.salary, d.avg_salary
+FROM employees e
+JOIN dept_avg d ON e.dept_id = d.dept_id;
+```
+
+### **🎯 Study Plan for SQL Mastery**
+| Week | Focus Area | HackerRank Domain | Practice Problems |
+|------|------------|-------------------|-------------------|
+| **Week 1** | Basics & Aggregation | Basic Select + Aggregation | 37 problems |
+| **Week 2** | Joins & Advanced | Basic Join + Advanced Join | 9 problems |
+| **Week 3** | Complex Queries | Alternative Queries + Projects | 8 problems |
+| **Week 4** | Interview Prep | Mixed practice + Company questions | 20+ problems |
+
+### **🔧 Additional SQL Resources**
+| Resource | Type | Focus | Link |
+|----------|------|-------|------|
+| **SQLBolt** | Interactive Tutorial | SQL Basics | [sqlbolt.com](https://sqlbolt.com/) |
+| **LeetCode SQL** | Problem Practice | Interview Questions | [leetcode.com/problemset/database/](https://leetcode.com/problemset/database/) |
+| **W3Schools SQL** | Reference | Syntax & Examples | [w3schools.com/sql/](https://www.w3schools.com/sql/) |
+| **Mode Analytics** | Advanced Tutorial | Data Analysis | [mode.com/sql-tutorial/](https://mode.com/sql-tutorial/) |
+
+</details>
+
+---
+
+## 📋 SDE Progress Tracker
+
+<details>
+<summary><b>📊 Comprehensive Progress Monitoring</b></summary>
+
+### **🎯 Study Resources Progress**
+| Resource | Status | Completion | Notes |
+|----------|--------|------------|-------|
+| **Abdul Bari Algorithms** | ⏳ | ___% | Current Topic: _______ |
+| **Pepcoding Recursion** | ⏳ | ___% | Current Video: _______ |
+| **Aditya Verma DP** | ⏳ | ___% | Current Pattern: ______ |
+| **Striver Graphs** | ⏳ | ___% | Current Algorithm: _____ |
+
+### **🗂️ Problem Sheets Progress**
+| Sheet | Problems Solved | Total | Percentage | Target Date |
+|-------|----------------|-------|------------|-------------|
+| **Striver SDE Sheet** | ___/191 | 191 | ___% | _________ |
+| **Striver A to Z DSA** | ___/400+ | 400+ | ___% | _________ |
+| **Blind 75** | ___/75 | 75 | ___% | _________ |
+| **NeetCode 150** | ___/150 | 150 | ___% | _________ |
+
+### **🛠️ Platform-wise Statistics**
+| Platform | Problems | Easy | Medium | Hard | Contests |
+|----------|----------|------|--------|------|----------|
+| **TakeUForward** | _____ | _____ | _____ | _____ | N/A |
+| **LeetCode** | _____ | _____ | _____ | _____ | _____ |
+| **GeeksforGeeks** | _____ | _____ | _____ | _____ | N/A |
+| **HackerRank** | _____ | _____ | _____ | _____ | _____ |
+
+### **💾 SQL Progress**
+| Domain | Problems Solved | Total | Completion |
+|--------|----------------|-------|------------|
+| **Basic Select** | ___/20 | 20 | ___% |
+| **Advanced Select** | ___/4 | 4 | ___% |
+| **Aggregation** | ___/17 | 17 | ___% |
+| **Basic Join** | ___/6 | 6 | ___% |
+| **Advanced Join** | ___/3 | 3 | ___% |
+| **Alternative Queries** | ___/4 | 4 | ___% |
+| **Projects** | ___/4 | 4 | ___% |
+
+### **📈 Topic-wise Mastery Level**
+```
+Arrays & Strings:     [████████░░] 80% ✅ Strong
+Linked Lists:         [██████░░░░] 60% ⚠️  Needs Practice  
+Recursion:            [█████████░] 90% ✅ Strong
+Dynamic Programming:  [███░░░░░░░] 30% ❌ Weak - Priority
+Graphs:               [█████░░░░░] 50% ⚠️  Needs Practice
+Trees:                [███████░░░] 70% ✅ Good
+Sorting & Searching:  [█████████░] 90% ✅ Strong
+SQL:                  [████████░░] 80% ✅ Strong
+```
+
+### **🎯 Weekly Goals Tracker**
+```
+Week ___: [Date Range: _______ to _______]
+
+Goals Set:
+□ Complete __ problems from Striver SDE Sheet
+□ Watch __ videos from [Resource Name]
+□ Solve __ SQL problems on HackerRank  
+□ Practice __ problems on weak topics
+□ Complete 1 mock interview
+
+Achieved:
+□ ____________________
+□ ____________________
+□ ____________________
+
+Reflection:
+Strengths: ________________________________
+Areas to improve: _________________________
+Next week focus: __________________________
+```
 
 </details>
 
